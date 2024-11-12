@@ -4,6 +4,8 @@ A 90x94mm hotswap 34 keys split choc v1 keyboard, in the footprint of a floppy d
 
 ![jlcpcb order](images/jlcpcb.png)
 
+![Final build](images/IMG_1805.jpeg)
+
 ## Ordering
 
 Gerbers to upload are under `gerbers/`.
@@ -24,4 +26,10 @@ Recommandations:
 - 34 SMD diodes
 - 2 RJ11 4P4C connectors (18mm x 11mm)
 - 1 RJ11 4P4C cable that **needs to be straight** (when put side to side, the cables inside should match), otherwise **you will end up swapping VCC and GND, and putting the data pin to GND on the other half**
+
+## More images
+
+![Side by side](images/IMG_1804.jpeg)
+
+![Compared to a floppy disk](images/IMG_1806.jpeg)
 
