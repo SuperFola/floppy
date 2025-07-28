@@ -6,6 +6,10 @@ A 90x94mm hotswap 34 keys split choc v1 keyboard, in the footprint of a floppy d
 
 ![Final build](images/IMG_1805.jpeg)
 
+## Build guide
+
+[Assembling the floppy keyboard (lexp.lt)](https://lexp.lt/posts/floppy_keyboard/)
+
 ## Ordering
 
 Gerbers to upload are under `gerbers/`.
